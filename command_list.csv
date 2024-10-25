@@ -1,0 +1,86 @@
+    1  cd /reposit
+    2  cd /c/Users/Алена/reposit
+    3  -c && rm ~/.bash_history
+    4  git config
+    5  git config --global user.name "Olena Koniushenko"
+    6  git config --global email iambalonka53113@gmail.com
+    7  git config --global user.email iambalonka53113@gmail.com
+    8  git clone https://github.com/iambalonka/HW_10.git
+    9  ls -1
+   10  cd HW_10/
+   11  ls -1
+   12  touch text_ignore.txt
+   13  git add text_ignore.txt
+   14  git commit -m "Added text_ignore.txt"
+   15  touch .gitignore
+   16  git add.gitignore
+   17  git add .gitignore
+   18  git commit -m "Add .gitignore"
+   19  git push origin main
+   20  git push origin main
+   21  git push origin main
+   22  git push origin main
+   23  git push origin main
+   24  git push origin main
+   25  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
+   26  git status
+   27  get push
+   28  git push
+   29  git push origin main
+   30  git status
+   31  git restore .gitignore
+   32  get status
+   33  git status
+   34  git add  .gitignore.gitignore
+   35          "\320\242\320\276\320\272\320\265\320\275.txt"
+   36  git add
+   37  git status
+   38  git add .gitignore
+   39  git commit
+   40  git status
+   41  git commit -m "Added text_ignore.txt"
+   42  mkdir main_test.txt
+   43  clear
+   44  touch aer
+   45  clear
+   46  touch main_test.txt
+   47  git add main_test.txt
+   48  git commit -m "Added main_test.txt"
+   49  git status
+   50  git push
+   51  git branch develop
+   52  git checkout
+   53  touch develop_test.txt
+   54  git add develop_test.txt
+   55  git commit develop_test.txt
+   56  git commit -m "Added develop_test.txt"
+   57  nano develop_test.txt
+   58  git status
+   59  git add "Added xyyyy"
+   60  git delete "Added xyyyy"
+   61  git --help
+   62  git rm xyyy
+   63  git rm xyyyy
+   64  git rm "Added xyyyy"
+   65  git add -a "Added develop_test.txt file"
+   66  git add "Added develop_test.txt file"
+   67  git add "Added just a small change"
+   68  git status
+   69  git add "Added develop_test.txt"
+   70  nano develop_test.txt
+   71  git status
+   72  git add "Added just a small change"
+   73  git add.
+   74  git --help
+   75  git add .
+   76  git commit -m "Added develop_test.txt file"
+   77  git push
+   78  checkout
+   79  git checkout
+   80  git merge develope
+   81  git merge develop
+   82  git log
+   83  history > command_list.csv
+   84  ls -l
+   85  git branch
+   86  history > command_list.csv
